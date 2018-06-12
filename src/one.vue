@@ -7,11 +7,15 @@
 
 <script>
 export default {
-  name: "one",
-  data() {
+  name: 'one',
+  data () {
     return {
-      msg: "I am one"
-    };
+      msg: 'I am one'
+    }
   }
-};
+}
 </script>
+
+<style>
+
+</style>
